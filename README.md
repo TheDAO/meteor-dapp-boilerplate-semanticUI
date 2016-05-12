@@ -1,4 +1,4 @@
-# meteor-dapp-boilerplate
+# meteor-dapp-boilerplate w/ Semantic UI
 
 A starting point for decentralized MeteorJS applications. Includes Ethereum.js, iron-router, Official Semantic UI Integration for Meteor, Font Awesome, LESS and more.
 
